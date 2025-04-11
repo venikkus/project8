@@ -1,6 +1,8 @@
 # Preprocessing and clustering
 
-This analysis performed based on [Scanpy tutorial](https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html).
+This analysis performed based on [Scanpy tutorial](https://scanpy-tutorials.readthedocs.io/en/latest/pbmc3k.html). In this code we saved the tutorial authors notes in md-cells and code. 
+
+The executable notebook is called `citeseq_rna_counts_analysis.ipynb`
 
 
 ```python
