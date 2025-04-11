@@ -548,7 +548,6 @@ Show the 10 top ranked genes per cluster 0, 1, ..., 7 in a dataframe.
 pd.DataFrame(adata.uns["rank_genes_groups"]["names"]).head(5)
 ```
 
-</style>
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
@@ -652,7 +651,7 @@ pd.DataFrame(
 ).head(5)
 ```
 
-</style>
+
 <table border="1" class="dataframe">
   <thead>
     <tr style="text-align: right;">
